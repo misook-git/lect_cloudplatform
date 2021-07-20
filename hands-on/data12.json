@@ -1,0 +1,15 @@
+
+[
+	{
+	"emp_id": "202020",
+	"Name": "jaeahn lee",
+	"Age":25,
+	"Location":["busan","사상구"]
+	},
+	{
+	"emp_id": "3333",
+	"Name": "heesoo",
+	"Age":27,
+	"Location":["seoul","강남구"]
+	}
+]

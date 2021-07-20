@@ -1,0 +1,22 @@
+{
+	"person":[
+		{
+		"id": "1234",
+		"name": "cwro",
+		"age": 30,
+		"location":["busan","사상구"]
+		},
+		{
+		"id": "3333",
+		"name": "heesoo",
+		"age": 20,
+		"location":["seoul","Kangnam"]
+		},
+		{
+		"id": "5555",
+		"name": "jaewon",
+		"age": 10,
+		"location":["bdaegu","sooseung"]
+		}
+	]
+}
