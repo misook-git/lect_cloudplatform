@@ -1,0 +1,15 @@
+HEADER,SERVICE_NAMES,SERVICE_TYPES,DEVICE_TYPE,APP_NAME,CHOICE,CTRL_REC_GEN_COUNT,CTRL_SLEEP_TIMER
+customer_id,Prime,Promotion,Laptop,Chrome,Y,1,10
+ip_address,,Prime,Mobile,Safari,N,,
+device_type,,Regular,Tab,Firefox,,,
+router_mac_address,,Student,Smart-TV,Others,,,
+device_name,,,,,,,
+ip_browser,,,,,,,
+website_url,,,,,,,
+app_name,,,,,,,
+is_app_flag,,,,,,,
+is_downloaded_flag,,,,,,,
+data_size,,,,,,,
+is_live_streaming,,,,,,,
+date,,,,,,,
+time,,,,,,,
