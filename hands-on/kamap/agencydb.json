@@ -1,0 +1,472 @@
+[
+    {
+        "agency_name": "부산강서구보건소",
+        "address": "부산 강서구 대저2동 1932-1 강서브라이트센터 보건소",
+        "latitude": "35.180293",
+        "longitude": "128.957241",
+        "weekday_oph": "09:00 ~ 18:00",
+        "saturday_oph": "9:00 ~ 18:00",
+        "holiday_oph": "09:00 ~ 18:00",
+        "phone_number": "051-970-3415"
+    },
+    {
+        "agency_name": "갑을녹산병원",
+        "address": "녹산산단321로 24-8",
+        "latitude": "35.090405",
+        "longitude": "128.853443",
+        "weekday_oph": "09:00 ~ 18:00",
+        "saturday_oph": "09:00 ~ 17:00",
+        "holiday_oph": "10:00 ~ 17:00",
+        "phone_number": "051-974-8449"
+    },
+    {
+        "agency_name": "금정구보건소",
+        "address": "부산광역시 금정구 부곡3동 78",
+        "latitude": "35.242047",
+        "longitude": "129.092482",
+        "weekday_oph": "09:00 ~ 17:00",
+        "saturday_oph": "09:00 ~ 17:00",
+        "holiday_oph": "09:00 ~ 17:00",
+        "phone_number": "051-519-5051"
+    },
+    {
+        "agency_name": "세웅병원",
+        "address": "부산광역시 금정구 서동로 162(서동)",
+        "latitude": "35.214395",
+        "longitude": "129.104104",
+        "weekday_oph": "09:00 ~ 17:00",
+        "saturday_oph": "09:00 ~ 12:30",
+        "holiday_oph": "미운영",
+        "phone_number": "051-500-9700"
+    },
+    {
+        "agency_name": "기장군보건소",
+        "address": "부산 기장군 기장읍 신천리 1번지",
+        "latitude": "35.243474",
+        "longitude": "129.222854",
+        "weekday_oph": "09:00 ~ 18:00",
+        "saturday_oph": "09:00 ~ 18:00",
+        "holiday_oph": "09:00 ~ 18:00",
+        "phone_number": "051-709-8614"
+    },
+    {
+        "agency_name": "동남권원자력의학원",
+        "address": "부산광역시 기장군 장안읍 좌동길 40",
+        "latitude": "35.321294",
+        "longitude": "129.243467",
+        "weekday_oph": "08:30 ~ 17:30",
+        "saturday_oph": "08:30 ~ 12:30",
+        "holiday_oph": "미운영",
+        "phone_number": "051-720-5114"
+    },
+    {
+        "agency_name": "기장병원",
+        "address": "부산광역시 기장군 기장읍 대청로72번길 6",
+        "latitude": "35.235909",
+        "longitude": "129.216524",
+        "weekday_oph": "00:00 ~ 24:00",
+        "saturday_oph": "00:00 ~ 24:00",
+        "holiday_oph": "00:00 ~ 24:00",
+        "phone_number": "051-723-0171"
+    },
+    {
+        "agency_name": "동래구보건소",
+        "address": "부산 동래구 명륜2동 702-54번지 ",
+        "latitude": "35.211396",
+        "longitude": "129.079914",
+        "weekday_oph": "09:00 ~ 18:00",
+        "saturday_oph": "09:00 ~ 18:00",
+        "holiday_oph": "09:00 ~ 18:00",
+        "phone_number": "051-555-4000"
+    },
+    {
+        "agency_name": "대동병원",
+        "address": "동래구 충렬대로187",
+        "latitude": "35.204382",
+        "longitude": "129.080250",
+        "weekday_oph": "09:00 ~ 17:00",
+        "saturday_oph": "09:00 ~ 12:00",
+        "holiday_oph": "미운영",
+        "phone_number": "051-554-1233"
+    },
+    {
+        "agency_name": "봉생병원",
+        "address": "부산광역시 동래구 안연로109번길 27",
+        "latitude": "35.196836",
+        "longitude": "129.091140",
+        "weekday_oph": "09:00 ~ 16:30",
+        "saturday_oph": "미운영",
+        "holiday_oph": "미운영",
+        "phone_number": "051-520-5510"
+    },
+    {
+        "agency_name": "광혜병원",
+        "address": "부산광역시 동래구 충렬대로 96",
+        "latitude": "35.207076",
+        "longitude": "129.071226",
+        "weekday_oph": "13:30 ~ 16:00",
+        "saturday_oph": "미운영",
+        "holiday_oph": "미운영",
+        "phone_number": "051-503-2111"
+    },
+    {
+        "agency_name": "부산남구보건소",
+        "address": "부산 남구 못골로 23",
+        "latitude": "35.135984",
+        "longitude": "129.085010",
+        "weekday_oph": "09:00 ~ 18:00",
+        "saturday_oph": "09:00 ~ 18:00",
+        "holiday_oph": "09:00 ~ 18:00",
+        "phone_number": "051-607-6460"
+    },
+    {
+        "agency_name": "부산성모병원",
+        "address": "부산시 남구 용호로 232번길 25-14",
+        "latitude": "35.110373",
+        "longitude": "129.109361",
+        "weekday_oph": "09:00 ~ 16:00",
+        "saturday_oph": "09:00 ~ 12:00",
+        "holiday_oph": "미운영",
+        "phone_number": "051-933-7119"
+    },
+    {
+        "agency_name": "부산동구보건소",
+        "address": "부산 동구 수정동(수정제2동) 806-74 동구청 보건소",
+        "latitude": "35.129334",
+        "longitude": "129.044927",
+        "weekday_oph": "09:00 ~ 18:00",
+        "saturday_oph": "09:00 ~ 14:00",
+        "holiday_oph": "09:00 ~ 14:00",
+        "phone_number": "051-440-6500"
+    },
+    {
+        "agency_name": "좋은문화병원",
+        "address": "부산광역시 동구 범일로 119(범일동)",
+        "latitude": "35.140727",
+        "longitude": "129.059055",
+        "weekday_oph": "09:00 ~ 17:00",
+        "saturday_oph": "09:00 ~ 12:00",
+        "holiday_oph": "미운영",
+        "phone_number": "051-644-2002"
+    },
+    {
+        "agency_name": "김원묵기념봉생병원",
+        "address": "부산광역시 동구 중앙대로 401(좌천동)",
+        "latitude": "35.130983",
+        "longitude": "129.050191",
+        "weekday_oph": "09:00 ~ 12:00",
+        "saturday_oph": "09:00 ~ 12:00",
+        "holiday_oph": "미운영",
+        "phone_number": "051-664-4000"
+    },
+    {
+        "agency_name": "부산북구보건소",
+        "address": "부산 북구 화명동 1531-4 ",
+        "latitude": "35.239221",
+        "longitude": "129.014807",
+        "weekday_oph": "09:00 ~ 18:00",
+        "saturday_oph": "09:00 ~ 18:00",
+        "holiday_oph": "09:00 ~ 18:00",
+        "phone_number": "051-309-4500"
+    },
+    {
+        "agency_name": "부민병원",
+        "address": "부산 북구 만덕대로 59",
+        "latitude": "35.211909",
+        "longitude": "129.011278",
+        "weekday_oph": "09:00 ~ 17:00",
+        "saturday_oph": "09:00 ~ 13:00",
+        "holiday_oph": "미운영",
+        "phone_number": "051-330-3000"
+    },
+    {
+        "agency_name": "구포성심병원",
+        "address": "부산 북구 낙동대로 1786(구포동) ",
+        "latitude": "35.209595",
+        "longitude": "129.004598",
+        "weekday_oph": "09:00 ~ 16:30",
+        "saturday_oph": "09:00 ~ 12:00",
+        "holiday_oph": "미운영",
+        "phone_number": "051-330-2001"
+    },
+    {
+        "agency_name": "부산서구보건소",
+        "address": "부산 서구 부용동2가(부민동) 86 서구보건소 부민노인복지관",
+        "latitude": "35.107526",
+        "longitude": "129.018097",
+        "weekday_oph": "09:00 ~ 18:00",
+        "saturday_oph": "09:00 ~ 18:00",
+        "holiday_oph": "09:00 ~ 18:00",
+        "phone_number": "051-240-4891"
+    },
+    {
+        "agency_name": "부산대학교병원",
+        "address": "구덕로 179",
+        "latitude": "35.100514",
+        "longitude": "129.019099",
+        "weekday_oph": "09:00 ~ 18:00",
+        "saturday_oph": "미운영",
+        "holiday_oph": "미운영",
+        "phone_number": "051-240-7051"
+    },
+    {
+        "agency_name": "동아대학교병원",
+        "address": "대신공원로 26",
+        "latitude": "35.119925",
+        "longitude": "129.017600",
+        "weekday_oph": "08:00 ~ 16:50",
+        "saturday_oph": "미운영",
+        "holiday_oph": "미운영",
+        "phone_number": "051-240-5085"
+    },
+    {
+        "agency_name": "고신대학교복음병원",
+        "address": "감천로 262",
+        "latitude": "35.080389",
+        "longitude": "129.015924",
+        "weekday_oph": "09:00 ~ 12:00",
+        "saturday_oph": "미운영",
+        "holiday_oph": "미운영",
+        "phone_number": "051-990-3233"
+    },
+    {
+        "agency_name": "삼육부산병원",
+        "address": "대티로 170",
+        "latitude": "35.112617",
+        "longitude": "129.011162",
+        "weekday_oph": "09:00 ~ 17:00",
+        "saturday_oph": "미운영",
+        "holiday_oph": "09:00 ~ 17:00",
+        "phone_number": "051-600-7575"
+    },
+    {
+        "agency_name": "부산중구보건소",
+        "address": "부산 중구 대청동1가 중구청 중구로 120",
+        "latitude": "35.106241",
+        "longitude": "129.032351",
+        "weekday_oph": "09:00 ~ 18:00",
+        "saturday_oph": "09:00 ~ 18:00",
+        "holiday_oph": "09:00 ~ 18:00",
+        "phone_number": "051-600-4741"
+    },
+    {
+        "agency_name": "메리놀병원",
+        "address": "중구로 121",
+        "latitude": "35.107305",
+        "longitude": "129.032558",
+        "weekday_oph": "11:00 ~ 17:00",
+        "saturday_oph": "미운영",
+        "holiday_oph": "미운영",
+        "phone_number": "051-461-2331"
+    },
+    {
+        "agency_name": "부산진구보건소",
+        "address": "부산 부산진구 범천동(범천제1동) 849-10 부산진보건소",
+        "latitude": "35.146282",
+        "longitude": "129.059970",
+        "weekday_oph": "09:00 ~ 18:00",
+        "saturday_oph": "09:00 ~ 18:00",
+        "holiday_oph": "09:00 ~ 18:00",
+        "phone_number": "051-645-4000"
+    },
+    {
+        "agency_name": "인제대학교부산백병원",
+        "address": "복지로 75",
+        "latitude": "35.146073",
+        "longitude": "129.020878",
+        "weekday_oph": "09:00 ~ 16:00",
+        "saturday_oph": "미운영",
+        "holiday_oph": "미운영",
+        "phone_number": "051-890-8933"
+    },
+    {
+        "agency_name": "온종합병원",
+        "address": "가야대로 721",
+        "latitude": "35.157775",
+        "longitude": "129.050017",
+        "weekday_oph": "11:00 ~ 16:00",
+        "saturday_oph": "11:00 ~ 12:00",
+        "holiday_oph": "미운영",
+        "phone_number": "051-607-0832"
+    },
+    {
+        "agency_name": "동의병원",
+        "address": "양정로 62",
+        "latitude": "35.169811",
+        "longitude": "129.076755",
+        "weekday_oph": "08:30 ~ 17:00",
+        "saturday_oph": "08:30 ~ 12:00",
+        "holiday_oph": "미운영",
+        "phone_number": "051-850-8865"
+    },
+    {
+        "agency_name": "춘해병원",
+        "address": "중앙대로 605",
+        "latitude": "35.146879",
+        "longitude": "129.058335",
+        "weekday_oph": "15:30 ~ 16:00",
+        "saturday_oph": "미운영",
+        "holiday_oph": "미운영",
+        "phone_number": "051-638-8000"
+    },
+    {
+        "agency_name": "사상구보건소",
+        "address": "부산 사상구 감전동 138-8",
+        "latitude": "35.152391",
+        "longitude": "128.992059",
+        "weekday_oph": "09:00 ~ 18:00",
+        "saturday_oph": "09:00 ~ 18:00",
+        "holiday_oph": "09:00 ~ 18:00",
+        "phone_number": "051-310-4791"
+    },
+    {
+        "agency_name": "부산보훈병원",
+        "address": "부산 사상구 백양대로 420 (주례동)",
+        "latitude": "35.153259",
+        "longitude": "129.006553",
+        "weekday_oph": "08:30 ~ 17:30",
+        "saturday_oph": "미운영",
+        "holiday_oph": "미운영",
+        "phone_number": "051-601-6000"
+    },
+    {
+        "agency_name": "좋은삼선병원",
+        "address": "부산 사상구 가야대로 326",
+        "latitude": "35.150511",
+        "longitude": "129.008206",
+        "weekday_oph": "09:00 ~ 16:00",
+        "saturday_oph": "09:00 ~ 12:00",
+        "holiday_oph": "미운영",
+        "phone_number": "051-310-0900"
+    },
+    {
+        "agency_name": "사하구보건소",
+        "address": "부산 사하구 하신중앙로 185 사하구보건소 (신평동, 사하구 제2청사, 신평2동행정복지센터)",
+        "latitude": "35.094343",
+        "longitude": "128.959435",
+        "weekday_oph": "09:00 ~ 18:00",
+        "saturday_oph": "09:00 ~ 18:00",
+        "holiday_oph": "09:00 ~ 18:00",
+        "phone_number": "051-220-5741"
+    },
+    {
+        "agency_name": "수영구보건소",
+        "address": "부산 수영구 광안1동 661-1번지",
+        "latitude": "35.162607",
+        "longitude": "129.113465",
+        "weekday_oph": "09:00 ~ 18:00",
+        "saturday_oph": "09:00 ~ 18:00",
+        "holiday_oph": "09:00 ~ 18:00",
+        "phone_number": "051-752-4000"
+    },
+    {
+        "agency_name": "좋은강안병원",
+        "address": "부산 수영구 수영로 493",
+        "latitude": "35.150057",
+        "longitude": "129.110724",
+        "weekday_oph": "09:30 ~ 16:00",
+        "saturday_oph": "09:30 ~ 12:00",
+        "holiday_oph": "미운영",
+        "phone_number": "051-625-0900"
+    },
+    {
+        "agency_name": "양산부산대학교병원",
+        "address": "금오로 20",
+        "latitude": "35.327974",
+        "longitude": "129.006307",
+        "weekday_oph": "09:00 ~ 17:00",
+        "saturday_oph": "미운영",
+        "holiday_oph": "미운영",
+        "phone_number": "055-360-3366"
+    },
+    {
+        "agency_name": "해운대백병원",
+        "address": "해운대로875",
+        "latitude": "35.173509",
+        "longitude": "129.182015",
+        "weekday_oph": "08:30 ~ 17:00",
+        "saturday_oph": "미운영",
+        "holiday_oph": "미운영",
+        "phone_number": "051-797-0100"
+    },
+    {
+        "agency_name": "해운대구보건소",
+        "address": "부산 해운대구 좌2동 1339",
+        "latitude": "35.164101",
+        "longitude": "129.178651",
+        "weekday_oph": "09:00 ~ 17:00",
+        "saturday_oph": "09:30 ~ 17:00",
+        "holiday_oph": "09:30 ~ 17:00",
+        "phone_number": "051-746-4000"
+    },
+    {
+        "agency_name": "해동병원",
+        "address": "부산시 영도구 태종로 133(봉래동 3가)",
+        "latitude": "35.091918",
+        "longitude": "129.043958",
+        "weekday_oph": "08:30 ~ 17:00",
+        "saturday_oph": "미운영",
+        "holiday_oph": "미운영",
+        "phone_number": "051-410-6682"
+    },
+    {
+        "agency_name": "영도병원",
+        "address": "부산시 영도구 태종로 85",
+        "latitude": "35.092242",
+        "longitude": "129.040537",
+        "weekday_oph": "09:00 ~ 17:00",
+        "saturday_oph": "09:00 ~ 13:00",
+        "holiday_oph": "미운영",
+        "phone_number": "051-419-7873"
+    },
+    {
+        "agency_name": "영도구보건소",
+        "address": "부산 영도구 태종로 423",
+        "latitude": "35.090407",
+        "longitude": "129.068007",
+        "weekday_oph": "09:00 ~ 18:00",
+        "saturday_oph": "09:00 ~ 18:00",
+        "holiday_oph": "09:00 ~ 18:00",
+        "phone_number": "051-416-4000"
+    },
+    {
+        "agency_name": "부산광역시의료원",
+        "address": "연제구 월드컵대로 359",
+        "latitude": "35.187283",
+        "longitude": "129.05926",
+        "weekday_oph": "08:30 ~ 17:30",
+        "saturday_oph": "08:30 ~ 17:30",
+        "holiday_oph": "08:30 ~ 17:30",
+        "phone_number": "051-607-2816"
+    },
+    {
+        "agency_name": "연제구보건소",
+        "address": "부산 연제구 연산2동 연제로 2(연산2동 1555)9",
+        "latitude": "35.176842",
+        "longitude": "129.079099",
+        "weekday_oph": "09:00 ~ 18:00",
+        "saturday_oph": "09:00 ~ 18:00",
+        "holiday_oph": "09:00 ~ 18:00",
+        "phone_number": "051-665-4781"
+    },
+    {
+        "agency_name": "BHS한서병원",
+        "address": "부산 수영구 수영로 615",
+        "latitude": "35.160814",
+        "longitude": "129.113179",
+        "weekday_oph": "09:00 ~ 15:30",
+        "saturday_oph": "미운영",
+        "holiday_oph": "미운영",
+        "phone_number": "051-756-0081"
+    },
+    {
+        "agency_name": "BHS한서병원",
+        "address": "부산 수영구 수영로 615",
+        "latitude": "35.160814",
+        "longitude": "129.113179",
+        "weekday_oph": "09:00 ~ 15:30",
+        "saturday_oph": "미운영",
+        "holiday_oph": "미운영",
+        "phone_number": "051-756-0081"
+    }
+]
